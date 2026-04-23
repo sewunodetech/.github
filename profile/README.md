@@ -25,7 +25,7 @@ We ship faster.
 ## 🚀 Approach
 
 We don’t overplan.  
-We build, test, break, and iterate — fast.
+We build, test, break, and iterate fast.
 
 Execution > ideas  
 Signal > noise  
