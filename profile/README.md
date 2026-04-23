@@ -6,7 +6,7 @@
 
 ## ⚡ What is Sewunode
 
-Sewuno is a stealth technology lab building high-performance digital products at the edge of Web2, Web3, and AI.
+Sewunode is a stealth technology lab building high-performance digital products at the edge of Web2, Web3, and AI.
 
 We move fast.  
 We ship faster.
